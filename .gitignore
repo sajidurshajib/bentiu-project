@@ -1,6 +1,9 @@
 # Tailwind
 node_modules
+
+# Virtual Environments
 env
+.venv
 .vscode
 
 university/media
